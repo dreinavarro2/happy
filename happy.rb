@@ -33,3 +33,11 @@ end
 get '/new' do
 	"This is a new addition"
 end
+
+get '/newer' do
+	"This is a newer addition"
+end
+
+get '/newest' do
+	"I added something"
+end
