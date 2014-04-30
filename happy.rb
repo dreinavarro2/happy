@@ -29,3 +29,7 @@ post '/animal' do
 	@animal = Animal.new params[:name], params[:type]	
 	erb :animal
 end
+
+get '/new' do
+	"This is a new addition"
+end
