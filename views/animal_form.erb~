@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Animal Form</title>
+	</head>
+	<body>
+		<form method="POST" action="/animal"
+	</body>
+</html>
